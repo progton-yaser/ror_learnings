@@ -1,0 +1,13 @@
+
+# MVC(Model View Controller):-
+
+#Steps for MVC):-
+
+#Step 1) Client(Any Browser)!!
+#Step 2) Webserver!!
+#step 3) Dispatcher!!
+#Step 4) Controller to Model!!
+#Step 5) Model(Database)!!
+#Step 6) Model(Database) to Controller!!
+#Step 7) Controller to View!!
+#Step 8) View to Client!!

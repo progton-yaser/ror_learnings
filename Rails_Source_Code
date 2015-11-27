@@ -1,0 +1,11 @@
+#Rails Source Code):-
+
+# 1) Action Mailer -> Mailing libraries which handles all the email related stuff of our web application with little configuration!!
+# 2) Action Pack -> It performs two actions - Action Dispatch & Action Controller!!
+# 3) Action View -> View ERB (HTML code containing ruby action view - <%=  %>)!!
+# 4) Active Model -> It provides necessary validation method & some helper lib for model!!
+# 5) Active Job -> Library to handle backend jobs!! 
+# 6) Active Record -> Database ORM(Object Relational Mapping) & also conversion of ruby to SQL takes place. It is also an intermediate of Database & Rails!!
+# 7) Active Support -> Supporting libraries for rails & utilities!!
+# 8) Railties -> It is used to interlink between files & tables!!
+
